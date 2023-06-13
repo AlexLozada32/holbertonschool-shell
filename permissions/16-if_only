@@ -1,2 +1,2 @@
 #!/bin/bash
-if guillaume chown vincent hello
+if "$current_owner" guillaume chown vincent hello
