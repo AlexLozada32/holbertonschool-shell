@@ -1,2 +1,2 @@
 #!/bin/bash
--c %U guillaume chown vincent hello
+-c %U guillaume chown hello vincent
