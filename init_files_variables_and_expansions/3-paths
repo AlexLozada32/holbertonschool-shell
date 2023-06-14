@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -cd ":" <<< "$path" | wc -c
+ls -n PATH
