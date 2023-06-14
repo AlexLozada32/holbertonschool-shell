@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$((128 + trueknowledge_value)) export TRUEKNOWLEDGE=<value>
+$((128 + $TRUEKNOWLEDGE))
