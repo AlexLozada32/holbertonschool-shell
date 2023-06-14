@@ -1,2 +1,2 @@
 #!/bin/bash
-value="$((128 + $TRUEKNOWLEDGE))" echo $value
+print value="$((128 + $TRUEKNOWLEDGE))"
