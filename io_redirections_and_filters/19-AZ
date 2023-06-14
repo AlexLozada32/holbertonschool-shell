@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 's/A/Z/g s/c/e/g'
+echo 's/A/Z/g | s/c/e/g'
