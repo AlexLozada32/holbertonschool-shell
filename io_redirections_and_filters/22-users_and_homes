@@ -1,2 +1,2 @@
 #!/bin/bash
--F /etc/passwd | sort -k2
+-F: /etc/passwd | sort -k2
